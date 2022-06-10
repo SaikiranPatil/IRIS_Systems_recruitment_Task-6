@@ -31,3 +31,10 @@ Then in command prompt
 ```
 docker-compose -f mongo.yaml up
 ```
+
+![14](https://user-images.githubusercontent.com/84263946/173130600-be62fbcc-4235-4a25-a9dd-6e3417ce8144.PNG)
+
+we can see tat two containers are started by single command in the image below
+
+![13](https://user-images.githubusercontent.com/84263946/173130731-2e737ddb-f19e-4262-be14-b84adf2781a0.PNG)
+
